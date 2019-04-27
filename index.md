@@ -1,4 +1,4 @@
 ## Purdue Menus Android
 
-This is a test.
+Check out the [privacy policy](https://android.menus.purdue.tools/privacy)
 
