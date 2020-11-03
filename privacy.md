@@ -1,11 +1,8 @@
 # Privacy Policy
 **What Information is Collected?**
 
-When you enable automatic night mode and grant the location permission, the system will use your location to determine if dark mode should be enabled. Your location is never directly accessed by the app and is not collected.
-
-
-Additionally, if you have elected to send Android crash reports, such reports may be provided to the developer. These reports include basic information about your device model and the crash event in order to help diagnose issues.
+Basic information about your device and usage of app features is collected, including the device model, Android version, and app version. Information about crashes and general app performance may be collected in order to diagnose issues and improve the app. The Android Advertising ID is not collected or used.
 
 **How is the information used?**
 
-Any collected information is used only to improve the app. No data is shared with third parties.
+Any collected information is used only to improve the app. Data is not shared with third parties. If you choose to sign in with your Purdue credentials, they are sent directly to Purdue servers and are not stored by the app.
